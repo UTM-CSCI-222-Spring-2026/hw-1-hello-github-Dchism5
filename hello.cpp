@@ -1,7 +1,7 @@
 /**
  * @file hello.cpp
- * @author your name (you@domain.com)
- * @brief 
+ * @author dchism5@skyhawks.utm.edu (you@domain.com)
+ * @brief This project is the first homework project for the CSCI222 Class 
  */
 #include <iostream>
 
@@ -9,5 +9,5 @@ using namespace std;
 
 int main()
 {
-    // YOUR CODE HERE
+    cout << "Hello, World!" << endl;
 }
